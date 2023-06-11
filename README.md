@@ -1,6 +1,6 @@
 # Exp-6 Create a simple calculator built with React
 ## AIM:
-To create react app to develop a complete Todo application with all features.
+To create react app to develop a complete Simple Calculator application with all features.
 ## PROCEDURE:
 ### STEP 1:
 Create react app by npm create-react-app.
@@ -145,7 +145,7 @@ root.render(
 reportWebVitals();
 ```
 ## OUTPUT:
-![image](https://github.com/Karthikeyan21001828/MERN_EX05/assets/93427303/59bb6ea9-28d9-4c78-94fe-774c49b1196f)
+![image](https://github.com/Karthikeyan21001828/MERN_EX06/assets/93427303/6622c1ac-8e9c-402c-bdd1-e7def6708c12)
 
 ## RESULT:
-React app to develop a complete Todo application with all features has been created and output has been verified.
+React app to develop a complete Simple calculator application with all features has been created and output has been verified.
